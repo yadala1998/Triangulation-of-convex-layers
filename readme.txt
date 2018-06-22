@@ -6,3 +6,5 @@ Instruction to run the program:
 4. Filename should consists of points 
 5. Example of a point file can be generated using the input file generator with the command: "python  input_file_generator.py points.txt a b c d e" where a is the number of points, b and c are the extremes of the x- domain and d e are the extreme of the y - domain. 
 Example command: "python  input_file_generator.py points.txt 20 0 5 0 2"
+
+More info about algorithm in the Analysis.pdf
